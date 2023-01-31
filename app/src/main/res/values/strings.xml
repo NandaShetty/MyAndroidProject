@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MyAndroidProject</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid email</string>
+    <string name="invalid_password">Password must be at least 8 characters. It must have at least 1 lowercase and at least 1 uppercase letter. It must have one special character</string>
+    <string name="login_failed">"Login failed"</string>
+</resources>
